@@ -1,4 +1,4 @@
-sservices:
+services:
   db:
     container_name: postgresql_db_aca
     image: postgres:17
